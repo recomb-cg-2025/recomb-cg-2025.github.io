@@ -1,7 +1,10 @@
 ---
-title: "Paper and Poster Submissions"
+title: "RECOMB-CG program"
 permalink: /program/
 layout: single
 ---
+
+## Invited speakers
+
 
 
