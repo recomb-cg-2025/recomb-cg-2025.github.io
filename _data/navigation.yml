@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /home.html
+    url: /home/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title : "Submit"
-    url: /submit.html
+    url: /docs/submit/
   - title : "Program"
   - title : 'Register'
   - title : 'Participate'

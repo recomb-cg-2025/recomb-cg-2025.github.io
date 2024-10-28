@@ -1,5 +1,7 @@
 ---
 title: "submission test page"
+permalink: /docs/submit/
+layout: single
 categories:
   - Edge Case
 tags:
