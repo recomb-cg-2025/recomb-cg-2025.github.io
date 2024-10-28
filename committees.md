@@ -1,7 +1,7 @@
 ---
 title: "Committees"
 permalink: /committees/
-layout: archive
+layout: single
 ---
 
 
