@@ -1,0 +1,83 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<body>
+
+  <h1>Welcome to the 20th RECOMB-CG</h1>
+  
+  <p>The 20th RECOMB-CG conference is co-located with RECOMB 2023 in Istanbul, Turkey.</p>
+
+  <p>The RECOMB satellite conference on Comparative Genomics, founded in 2003, brings together leading researchers in the mathematical, computational, and life sciences to discuss cutting-edge research in comparative genomics, with an emphasis on computational approaches and novel experimental results. The program includes invited speakers, contributed talks, and poster sessions.</p>
+
+  <p>Contributions on any theoretical and/or empirical approach to genome-wide comparison are welcome. Topics of interest include, but are not limited to:</p>
+
+  <ul>
+      <li>Genome evolution</li>
+      <li>Genome rearrangements</li>
+      <li>Genomic variation, diversity, and dynamics</li>
+      <li>Gene identification and annotation</li>
+      <li>Methods for genome assembly</li>
+      <li>Cancer evolutionary genomics</li>
+      <li>Comparative epigenomics</li>
+      <li>Population genomics</li>
+      <li>Pangenomics</li>
+      <li>Phylogenomics and phylodynamics</li>
+      <li>Paleogenomics</li>
+      <li>Epidemiology and related areas</li>
+      <li>Metagenomics</li>
+      <li>Machine learning in genomics</li>
+  </ul>
+
+  <h2>Key Dates</h2>
+  <p>All deadlines are "anywhere on earth."</p>
+
+  <table>
+      <tr>
+          <th>Event</th>
+          <th>Date</th>
+      </tr>
+      <tr>
+          <td>Submissions</td>
+          <td><del>January 15, 2023 (Sunday)</del> February 2, 2023 (Thursday)</td>
+      </tr>
+      <tr>
+          <td>Notifications</td>
+          <td>March 5, 2023 (Sunday)</td>
+      </tr>
+      <tr>
+          <td>Early registration</td>
+          <td>March 12, 2023 (Sunday)</td>
+      </tr>
+      <tr>
+          <td>Camera ready</td>
+          <td>March 19, 2023 (Sunday)</td>
+      </tr>
+      <tr>
+          <td>Poster submissions</td>
+          <td>April 2, 2023 (Sunday)</td>
+      </tr>
+      <tr>
+          <td>Conference</td>
+          <td>April 14-15, 2023</td>
+      </tr>
+  </table>
+
+</body>
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
+
+{% include paginator.html %}

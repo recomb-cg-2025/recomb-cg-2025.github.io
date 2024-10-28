@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /home.html
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title : "Submit"
-    url: /docs/submit.md
+    url: /submit.html
   - title : "Program"
   - title : 'Register'
   - title : 'Participate'
@@ -19,4 +19,13 @@ main:
   - title : 'History'
   - title : 'RECOMB'
 
-
+docs:
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
