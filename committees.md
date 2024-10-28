@@ -1,7 +1,7 @@
 ---
 title: "Committees"
 permalink: /committees/
-layout: default
+layout: single
 ---
 
 <h1>Committees</h1>
