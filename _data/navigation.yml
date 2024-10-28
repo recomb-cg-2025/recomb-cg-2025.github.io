@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title : "Submit"
-    url: /submit.html
+    url: /submit/
   - title : "Program"
   - title : 'Register'
   - title : 'Participate'
