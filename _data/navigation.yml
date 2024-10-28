@@ -11,6 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title : "Submit"
+    url: /docs/
   - title : "Program"
   - title : 'Register'
   - title : 'Participate'
@@ -18,4 +19,4 @@ main:
   - title : 'History'
   - title : 'RECOMB'
 
-  
+
