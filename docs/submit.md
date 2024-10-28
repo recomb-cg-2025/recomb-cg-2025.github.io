@@ -1,6 +1,6 @@
 ---
 title: "submission test page"
-permalink: /docs/submit/
+permalink: /docs/submit.md
 layout: single
 categories:
   - Edge Case
