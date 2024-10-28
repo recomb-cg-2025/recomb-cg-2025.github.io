@@ -13,9 +13,14 @@ main:
   - title : "Submit"
     url: /submit/
   - title : "Program"
+    url: /program/
   - title : 'Register'
+    url: /register/
   - title : 'Participate'
+    url: /participate/
   - title : 'Committees'
+    url: /committees/
   - title : 'History'
+    url: /history/
   - title : 'RECOMB'
     url: https://recomb.org/recomb2025/
