@@ -3,6 +3,7 @@ title: "Committees"
 permalink: /committees/
 ---
 
+# Committees
 
 | **Program Committee** | **Steering Committee** |
 | --------------------- | ---------------------- |

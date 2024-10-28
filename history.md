@@ -3,6 +3,8 @@ title: "Past RECOMB-CG Conferences"
 permalink: /history/
 ---
 
+# Past RECOMB-CG Conferences
+
 - The 21th RECOMB-CG, Boston, USA, in 2024.
 - The 20th RECOMB-CG, Istanbul, Turkye, in 2023.
 - The 19th RECOMB-CG, La Jolla, USA, in 2022.
