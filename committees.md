@@ -54,3 +54,14 @@ Xiuwei Zhang, Georgia Institute of Technology, USA
 Louxin Zhang, National University of Singapore, Singapore
 Fa Zhang, Chinese Academy of Science, China
 Jie Zheng, ShanghaiTech University, China
+
+# Steering Committee
+Marília Braga, Bielefeld University, Germany
+Dannie Durand, Carnegie Mellon University, USA
+Jens Lagergren, KTH Royal Institute of Technology, Sweden
+Aoife McLysaght, Trinity College Dublin, Ireland
+Luay Nakhleh, Rice University, USA
+David Sankoff, University of Ottawa, Canada
+
+# Organizing Committee
+see RECOMB 2023 organizing committee
