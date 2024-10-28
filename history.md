@@ -1,6 +1,7 @@
 ---
 title: "Past RECOMB-CG Conferences"
 permalink: /history/
+layout: single
 ---
 
 # Past RECOMB-CG Conferences
