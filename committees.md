@@ -1,11 +1,8 @@
 ---
-title: "Paper and Poster Submissions"
-permalink: /submit/
+title: "Committees"
+permalink: /committees/
 ---
 
-
-
-# Committees
 
 | **Program Committee** | **Steering Committee** |
 | --------------------- | ---------------------- |
