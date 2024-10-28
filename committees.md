@@ -1,10 +1,9 @@
 ---
 title: "Committees"
 permalink: /committees/
-layout: single
+layout: archive
 ---
 
-<h1>Committees</h1>
 
 <div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap;">
 
