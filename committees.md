@@ -1,16 +1,16 @@
 ---
 title: "Committees"
 permalink: /committees/
-layout: double
+layout: default
 ---
 
-<!-- # Committees -->
+# Committees
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap;">
 
-<div style="width: 90%;">
+<div style="width: 45%; min-width: 300px;">
 
-## Program Committee
+### Program Committee
 
 - Katharina Jahn, Freie Universität Berlin, Germany, co-chair
 - Tomas Vinar, Comenius University in Bratislava, Slovakia, co-chair
@@ -65,9 +65,9 @@ layout: double
 
 </div>
 
-<div style="width: 90%;">
+<div style="width: 45%; min-width: 300px;">
 
-## Steering Committee
+### Steering Committee
 
 - **Marília Braga**, Bielefeld University, Germany
 - **Dannie Durand**, Carnegie Mellon University, USA
@@ -76,7 +76,7 @@ layout: double
 - **Luay Nakhleh**, Rice University, USA
 - **David Sankoff**, University of Ottawa, Canada
 
-## Organizing Committee
+### Organizing Committee
 
 See [RECOMB 2023 organizing committee](https://example.com)
 
