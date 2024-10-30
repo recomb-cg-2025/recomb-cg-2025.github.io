@@ -33,7 +33,7 @@ layout: single
 
 <h3>Organizing Committee</h3>
 
-<p>See <a href="https://example.com">RECOMB 2023 organizing committee</a></p>
+<p>See <a href="https://example.com">RECOMB 2025 organizing committee</a></p>
 
 </div>
 
