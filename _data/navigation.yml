@@ -2,16 +2,20 @@
 main:
   - title: "Home"
     url: /index.html
-  - title : "Submit"
-    url: /submit/
+  - title : "Committees"
+    url : /committees/ 
+  - title : "Keynotes"
+    url : //
   - title : "Program"
-    url: /program/
+    url : /program/
+  - title : "Key Dates"
+    url : //
+  - title : "Submission"
+    url: /submit/
   - title : 'Register'
     url: https://recomb.org/recomb2025/register.html
-  - title : 'Participate'
+  - title : 'Venue'
     url: https://recomb.org/recomb2025/venue_satellites.html
-  - title : 'Committees'
-    url: /committees/
   - title : 'History'
     url: /history/
   - title : 'RECOMB'
