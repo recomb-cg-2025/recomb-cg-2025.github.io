@@ -12,12 +12,7 @@ layout: single
 <h3>Program Committee</h3>
 
 <ul>
-  <li>Katharina Jahn, Freie Universität Berlin, Germany, co-chair</li>
-  <li>Tomas Vinar, Comenius University in Bratislava, Slovakia, co-chair</li>
-  <li>Max Alekseyev, George Washington University, USA</li>
-  <li>Lars Arvestad, Stockholm University, Sweden</li>
-  <li>Mukul S. Bansal, University of Connecticut, USA</li>
-  <li>Anne Bergeron, Université du Québec à Montréal, Canada</li>
+  <li>Program Committee Chair, Giltae Song, Pusan National University</li>
   <!-- Add other items here in the same format -->
 </ul>
 
