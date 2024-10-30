@@ -5,11 +5,11 @@ main:
   - title : "Committees"
     url : /committees/ 
   - title : "Keynotes"
-    url : //
+    url : /keynotes/
   - title : "Program"
     url : /program/
   - title : "Key Dates"
-    url : //
+    url : /keydates/
   - title : "Submission"
     url: /submit/
   - title : 'Register'
