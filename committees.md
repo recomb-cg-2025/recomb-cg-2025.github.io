@@ -12,7 +12,7 @@ layout: single
 <h3>Program Committee</h3>
 
 <ul>
-  <li>Program Committee Chair, Giltae Song, Pusan National University</li>
+  <li><strong>Giltae Song</strong>, Pusan National University, Program Committee Chair</li>
   <!-- Add other items here in the same format -->
 </ul>
 
