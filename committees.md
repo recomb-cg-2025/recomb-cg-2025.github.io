@@ -7,7 +7,7 @@ layout: single
 
 <div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap;">
 
-<div style="width: 65%; min-width: 300px;">
+<div style="width: 55%; min-width: 300px;">
 
 <h3>Program Committee Chair</h3>
 
@@ -71,6 +71,7 @@ layout: single
   <li><strong>Michael Sammeth</strong>,  Coburg University</li>
   <li><strong>Mingfu Shao</strong>, Pennsylvania State University</li>
   <li><strong>Sagi Snir</strong>,  University of Haifa</li>
+  <li><strong>Giltae Song</strong> Pusan National University</li>
   <li><strong>Yanni Sun</strong>,  City University of Hong Kong</li>
   <li><strong>Wing-Kin Sung</strong>, The Chinese University of Hong Kong</li>
   <li><strong>Krister Swenson</strong>,  CNRS,  Université de Montpellier</li>
@@ -85,7 +86,6 @@ layout: single
   <li><strong>Louxin Zhang</strong>,  National University of Singapore</li>
   <li><strong>Fa Zhang</strong>, Beijing Institute of Technology</li>
   <li><strong>Jie Zheng</strong> ShanghaiTech University</li>
-  <li><strong>Giltae Song</strong> Pusan National University</li>
 </ul>
 
 
