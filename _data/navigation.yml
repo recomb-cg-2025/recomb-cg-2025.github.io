@@ -13,7 +13,7 @@ main:
   - title : "Submission"
     url: /submit/
   - title : 'Register'
-    url: https://recomb.org/recomb2025/register.html
+    url: /register/
   - title : 'Venue'
     url: https://recomb.org/recomb2025/venue_satellites.html
   - title : 'History'

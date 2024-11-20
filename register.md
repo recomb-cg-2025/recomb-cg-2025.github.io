@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-permalink: /submit/
+permalink: /register/
 layout: single
 ---
 
