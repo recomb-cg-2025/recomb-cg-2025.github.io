@@ -12,12 +12,7 @@ layout: single
 <h3>Program Committee</h3>
 
 <ul>
-  <li>Katharina Jahn, Freie Universität Berlin, Germany, co-chair</li>
-  <li>Tomas Vinar, Comenius University in Bratislava, Slovakia, co-chair</li>
-  <li>Max Alekseyev, George Washington University, USA</li>
-  <li>Lars Arvestad, Stockholm University, Sweden</li>
-  <li>Mukul S. Bansal, University of Connecticut, USA</li>
-  <li>Anne Bergeron, Université du Québec à Montréal, Canada</li>
+  <li><strong>Giltae Song</strong>, Pusan National University, Program Committee Chair</li>
   <!-- Add other items here in the same format -->
 </ul>
 
@@ -38,7 +33,7 @@ layout: single
 
 <h3>Organizing Committee</h3>
 
-<p>See <a href="https://example.com">RECOMB 2023 organizing committee</a></p>
+<p>See <a href="https://example.com">RECOMB 2025 organizing committee</a></p>
 
 </div>
 

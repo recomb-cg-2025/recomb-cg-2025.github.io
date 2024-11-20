@@ -5,11 +5,11 @@ main:
   - title : "Committees"
     url : /committees/ 
   - title : "Keynotes"
-    url : //
+    url : /keynotes/
   - title : "Program"
     url : /program/
   - title : "Key Dates"
-    url : //
+    url : /keydates/
   - title : "Submission"
     url: /submit/
   - title : 'Register'
@@ -18,5 +18,3 @@ main:
     url: https://recomb.org/recomb2025/venue_satellites.html
   - title : 'History'
     url: /history/
-  - title : 'RECOMB'
-    url: https://recomb.org/recomb2025/
