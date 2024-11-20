@@ -8,7 +8,9 @@ Submitted manuscripts may not have not been published or be currently under cons
 
 Submitted papers must be at most 15 pages in length (in the LNBI format), excluding references, with optionally a clearly marked appendix containing supplementary material. While appendices will be available to the reviewers, consideration of supplementary material is left to the reviewers' discretion. Manuscripts should provide a complete account of the results presented without referring to the supplementary material. All submissions must be made online, through the EasyChair submission system, at the following address:
 
-Authors must register on that web site before submition of the manuscript. A standard PDF file must be received by midnight on Wednesday, Feb. 7, 2024 (Anywhere on Earth, UTC-12) in order for a submission to be considered for publication.
+[https://easychair.org/conferences/?conf=recomb2025]https://easychair.org/conferences/?conf=recomb2025
+
+Authors must register on that web site before submition of the manuscript. A standard PDF file must be received by midnight on Friday, Feb. 7, 2025 (Anywhere on Earth, UTC-12) in order for a submission to be considered for publication.
 
 
 # Poster Submission Guidelines
@@ -19,7 +21,7 @@ Submitted abstracts must be at most 2 pages in length including references and f
 
 All submissions must be made online, through the EasyChair submission system, at the following address:
 
-
+[https://easychair.org/conferences/?conf=recomb2025]https://easychair.org/conferences/?conf=recomb2025
 
 Please select the RECOMB-CG track and then "Poster Submission" in the "Type of submission" checkbox in the submission form.
 
