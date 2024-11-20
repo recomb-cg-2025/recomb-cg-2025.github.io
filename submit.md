@@ -11,7 +11,6 @@ Submitted papers must be at most 15 pages in length (in the LNBI format), exclud
 Authors must register on that web site before submition of the manuscript. A standard PDF file must be received by midnight on Wednesday, Feb. 7, 2024 (Anywhere on Earth, UTC-12) in order for a submission to be considered for publication.
 
 
-
 # Poster Submission Guidelines
 
 We sollicite high-quality poster abstracts on novel computational or experimental results that fall within the general scope of the conference.
@@ -25,3 +24,4 @@ All submissions must be made online, through the EasyChair submission system, at
 Please select the RECOMB-CG track and then "Poster Submission" in the "Type of submission" checkbox in the submission form.
 
 At least one author of each accepted poster will be expected to attend the conference and present the poster.
+
