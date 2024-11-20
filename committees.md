@@ -7,7 +7,7 @@ layout: single
 
 <div style="display: flex; flex-direction: row; gap: 20px; flex-wrap: wrap;">
 
-<div style="width: 45%; min-width: 300px;">
+<div style="width: 65%; min-width: 300px;">
 
 <h3>Program Committee Chair</h3>
 
