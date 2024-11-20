@@ -4,5 +4,5 @@ permalink: /register/
 layout: single
 ---
 
-Please register in: [Link Text](https://recomb.org/recomb2025/register.html)
+Please register in: [https://recomb.org/recomb2025/register.html](https://recomb.org/recomb2025/register.html)
 
