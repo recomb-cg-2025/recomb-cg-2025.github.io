@@ -88,9 +88,7 @@ layout: single
   <li><strong>Jie Zheng</strong> ShanghaiTech University</li>
 </ul>
 
-
-
 </div>
 
-</div>
+
 
