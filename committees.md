@@ -28,7 +28,7 @@ layout: single
 
 </div>
 
-<div style="width: 50%; min-width: 300px;">
+<div style="width: 45%; min-width: 300px;">
 
 <h3>Program Committee</h3>
 
