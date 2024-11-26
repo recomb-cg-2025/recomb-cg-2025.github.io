@@ -9,10 +9,30 @@ layout: single
 
 <div style="width: 45%; min-width: 300px;">
 
+<h3>Program Committee Chair</h3>
+
+<ul>
+  <li><strong>Giltae Song</strong>, Pusan National University</li>
+</ul>
+
+<h3>Steering Committee</h3>
+
+<ul>
+  <li><strong>Marília Braga</strong>, Bielefeld University, Germany</li>
+  <li><strong>Dannie Durand</strong>, Carnegie Mellon University, USA</li>
+  <li><strong>Jens Lagergren</strong>, KTH Royal Institute of Technology, Sweden</li>
+  <li><strong>Aoife McLysaght</strong>, Trinity College Dublin, Ireland</li>
+  <li><strong>Luay Nakhleh</strong>, Rice University, USA</li>
+  <li><strong>David Sankoff</strong>, University of Ottawa, Canada</li>
+</ul>
+
+</div>
+
+<div style="width: 45%; min-width: 300px;">
+
 <h3>Program Committee</h3>
 
 <ul>
-  <li><strong>Giltae Song</strong>, Pusan National University, Program Committee Chair</li>
   <!-- Add other items here in the same format -->
   <li><strong>Max Alekseyev</strong>,  George Washington University</li>
   <li><strong>Lars Arvestad</strong>,  Stockholm University</li>
@@ -51,6 +71,7 @@ layout: single
   <li><strong>Michael Sammeth</strong>,  Coburg University</li>
   <li><strong>Mingfu Shao</strong>, Pennsylvania State University</li>
   <li><strong>Sagi Snir</strong>,  University of Haifa</li>
+  <li><strong>Giltae Song</strong> Pusan National University</li>
   <li><strong>Yanni Sun</strong>,  City University of Hong Kong</li>
   <li><strong>Wing-Kin Sung</strong>, The Chinese University of Hong Kong</li>
   <li><strong>Krister Swenson</strong>,  CNRS,  Université de Montpellier</li>
@@ -69,22 +90,5 @@ layout: single
 
 </div>
 
-<div style="width: 45%; min-width: 300px;">
 
-<h3>Steering Committee</h3>
-
-<ul>
-  <li><strong>Marília Braga</strong>, Bielefeld University, Germany</li>
-  <li><strong>Dannie Durand</strong>, Carnegie Mellon University, USA</li>
-  <li><strong>Jens Lagergren</strong>, KTH Royal Institute of Technology, Sweden</li>
-  <li><strong>Aoife McLysaght</strong>, Trinity College Dublin, Ireland</li>
-  <li><strong>Luay Nakhleh</strong>, Rice University, USA</li>
-  <li><strong>David Sankoff</strong>, University of Ottawa, Canada</li>
-</ul>
-
-
-
-</div>
-
-</div>
 
