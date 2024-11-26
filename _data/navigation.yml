@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /index.html
-  - title : "Committees"
-    url : https://recomb-cg-2025.github.io/committees/ 
+  - title : "Committee"
+    url : /committees/ 
   - title : "Keynotes"
     url : /keynotes/
   - title : "Program"

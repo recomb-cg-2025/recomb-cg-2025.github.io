@@ -1,5 +1,5 @@
 ---
-title: "Committees"
+title: "Committee"
 permalink: /committees/
 layout: single
 ---
