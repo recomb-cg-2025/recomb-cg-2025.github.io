@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /index.html
-  - title : "Committee"
+  - title : "Committees"
     url : /committees/ 
   - title : "Keynotes"
     url : /keynotes/
