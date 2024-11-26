@@ -34,7 +34,6 @@ layout: single
 
 <ul>
   <!-- Add other items here in the same format -->
-  <li><strong>Max Alekseyev</strong>,  George Washington University</li>
   <li><strong>Lars Arvestad</strong>,  Stockholm University</li>
   <li><strong>Mukul S. Bansal</strong>,  University of Connecticut</li>
   <li><strong>Anne Bergeron</strong>, Université du Québec à Montréal</li>
@@ -45,7 +44,6 @@ layout: single
   <li><strong>Cedric Chauve</strong>,  Simon Fraser University</li>
   <li><strong>Miklós Csűrös</strong>, University of Montreal</li>
   <li><strong>Daniel Doerr</strong>,  Heinrich Heine University Düsseldorf</li>
-  <li><strong>Mohammed El-Kebir</strong>,  University of Illinois at Urbana-Champaign</li>
   <li><strong>Nadia El-Mabrouk</strong>,  University of Montreal</li>
   <li><strong>Oliver Eulenstein</strong>,  Iowa State University</li>
   <li><strong>Guillaume Fertin</strong>,  University of Nantes</li>
@@ -53,8 +51,6 @@ layout: single
   <li><strong>Pawel Gorecki</strong>,  University of Warsaw</li>
   <li><strong>Wataru Iwasaki</strong>,  University of Tokyo</li>
   <li><strong>Katharina Jahn</strong>,  Freie Universität Berlin</li>
-  <li><strong>Asif Javed</strong>,  University of Hong Kong</li>
-  <li><strong>Xingpeng Jiang</strong>,  Central China Normal University</li>
   <li><strong>Lingling Jin</strong>,  University of Saskatchewan</li>
   <li><strong>Flora Jay</strong>, University of Paris-Saclay, CNRS, INRIA</li>
   <li><strong>Jaebum Kim</strong>,  Konkuk University</li>
@@ -62,9 +58,7 @@ layout: single
   <li><strong>Hayan Lee</strong>, Temple University</li>
   <li><strong>Kevin Liu</strong>,  Michigan State University</li>
   <li><strong>Istvan Miklos</strong>,  Renyi Institute</li>
-  <li><strong>Siavash Mirarab</strong>,  University of California, San Diego</li>
   <li><strong>Aïda Ouangraoua</strong>,  Université de Sherbrooke</li>
-  <li><strong>Fabio Pardi</strong>,  LIRMM - CNRS</li>
   <li><strong>Teresa Przytycka</strong>,  National Center of Biotechnology Information</li>
   <li><strong>Aakrosh Ratan</strong>,  University of Virginia</li>
   <li><strong>Maribel Hernandez Rosales</strong>, CINVESTAV Irapuato</li>
@@ -84,7 +78,6 @@ layout: single
   <li><strong>Yufeng Wu</strong>,  University of Connecticut</li>
   <li><strong>Tomas Vinar</strong>,  Comenius University in Bratislava</li>
   <li><strong>Louxin Zhang</strong>,  National University of Singapore</li>
-  <li><strong>Fa Zhang</strong>, Beijing Institute of Technology</li>
   <li><strong>Jie Zheng</strong> ShanghaiTech University</li>
 </ul>
 
