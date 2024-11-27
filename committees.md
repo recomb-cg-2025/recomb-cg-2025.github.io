@@ -12,7 +12,13 @@ layout: single
 <h3>Program Committee Chair</h3>
 
 <ul>
-  <li><strong>Giltae Song</strong>, Pusan National University</li>
+  <li><strong>Giltae Song</strong>, Pusan National University, South Korea</li>
+</ul>
+
+<h3>Organizing Committee Chair</h3>
+
+<ul>
+  <li><strong>Jaebum Kim</strong>, Konkuk University, South Korea</li>
 </ul>
 
 <h3>Steering Committee</h3>
@@ -42,6 +48,7 @@ layout: single
   <li><strong>Marilia Braga</strong>,  Bielefeld University</li>
   <li><strong>Broňa Brejová</strong>,  Comenius University in Bratislava</li>
   <li><strong>Cedric Chauve</strong>,  Simon Fraser University</li>
+  <li><strong>Fabio Pardi</strong>, CNRS</li>
   <li><strong>Miklós Csűrös</strong>, University of Montreal</li>
   <li><strong>Daniel Doerr</strong>,  Heinrich Heine University Düsseldorf</li>
   <li><strong>Nadia El-Mabrouk</strong>,  University of Montreal</li>
