@@ -10,7 +10,7 @@ layout: single
 
 - **Final camera-ready version due:** ~~March 3, 2025~~ <span style="color: red;">March 10, 2025</span>
 
-- **Poster submission deadline:** ~~April 4, 2025~~ <span style="color: red;">April 11, 2025</span>
+- **Poster submission deadline:** April 4, 2025 
 
 - **Registration open:** TBA
 
