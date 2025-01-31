@@ -20,7 +20,7 @@ In both cases, while appendices will be available to reviewers, consideration of
 
 All submissions must be made online, through the EasyChair submission system, at the following address : [https://easychair.org/conferences/?conf=recomb2025](https://easychair.org/conferences/?conf=recomb2025)
 
-Authors must register on that web site before submition of the manuscript. A standard PDF file must be received by midnight on Friday, Feb. 7, 2025 (Anywhere on Earth, UTC-12) in order for a submission to be considered for publication.
+Authors must register on that web site before submition of the manuscript. A standard PDF file must be received by midnight on Friday, Feb. 14, 2025 (Anywhere on Earth, UTC-12) in order for a submission to be considered for publication.
 
 
 # Poster Submission Guidelines
