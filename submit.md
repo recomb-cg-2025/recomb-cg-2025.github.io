@@ -8,11 +8,11 @@ Submitted manuscripts may not have not been published or be currently under cons
 
 **Authors of accepted papers have the following options:**.
 
-**- Have the full manuscript (maximum 15 pages, excluding references, with an optional clearly marked appendix of supplementary material) published in the proceedings.**.
+**- Have the full manuscript (maximum 15 pages, excluding references, with an optional clearly marked appendix of supplementary material) published in the proceedings.**
 
 OR
 
-**- Have a 4-page version published in the proceedings, provided that the full version is available on arXiv or bioRxiv.**.
+**- Have a 4-page version published in the proceedings, provided that the full version is available on arXiv or bioRxiv.**
 
 
 In both cases, while appendices will be available to reviewers, consideration of supplementary material is at the discretion of the reviewers. Manuscripts should provide a complete account of the results presented, without reference to the supplementary material. 
