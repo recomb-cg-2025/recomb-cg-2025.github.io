@@ -17,11 +17,9 @@ OR
 
 In both cases, while appendices will be available to reviewers, consideration of supplementary material is at the discretion of the reviewers. Manuscripts should provide a complete account of the results presented, without reference to the supplementary material. 
 
-The extended versions of selected papers from the RECOMB-CG 2025 proceedings will be invited to Journal of Computational Biology (with publication fees). 
+**The extended versions of selected papers from the RECOMB-CG 2025 proceedings will be invited to Journal of Computational Biology (with publication fees).**
 
-All submissions must be made online, through the EasyChair submission system, at the following address : [https://easychair.org/conferences/?conf=recomb2025](https://easychair.org/conferences/?conf=recomb2025)
-
-Authors must register on that web site before submition of the manuscript. A standard PDF file must be received by midnight on Friday, Feb. 14, 2025 (Anywhere on Earth, UTC-12) in order for a submission to be considered for publication.
+All submissions must be made online, through the EasyChair submission system, at the following address : [https://easychair.org/conferences/?conf=recomb2025](https://easychair.org/conferences/?conf=recomb2025). Authors must register on that web site before submition of the manuscript. A standard PDF file must be received by midnight on Friday, Feb. 14, 2025 (Anywhere on Earth, UTC-12) in order for a submission to be considered for publication.
 
 
 # Poster Submission Guidelines
