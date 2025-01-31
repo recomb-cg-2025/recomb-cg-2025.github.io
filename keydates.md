@@ -4,13 +4,13 @@ permalink: /keydates/
 layout: single
 ---
 
-- **Paper submission deadline:** February 7, 2025
+- **Paper submission deadline:** February 14, 2025
 
-- **Author notification for papers:** February 24, 2025
+- **Author notification for papers:** March 3, 2025
 
-- **Final camera-ready version due:** March 3, 2025
+- **Final camera-ready version due:** March 10, 2025
 
-- **Poster submission deadline:** April 4, 2025
+- **Poster submission deadline:** April 11, 2025
 
 - **Registration open:** TBA
 
