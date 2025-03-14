@@ -8,7 +8,11 @@ layout: single
 
 - Alexander Eckehart Urban, Ph.D. (Stanford University)
 
-- Choongwon Jeong, 
+![doc_choongwon](doc_choongwon.png)
 
-- Eun-Kyeong Jo
+- Choongwon Jeong, Ph.D. (Seoul National University)
+
+![doc_eunkyeong](doc_eunkyeong.png)
+
+- Eun-Kyeong Jo, Ph.D. (Chungnam National University)
 
