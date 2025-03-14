@@ -4,14 +4,15 @@ permalink: /keynotes/
 layout: single
 ---
 
-<img src="doc_urban.png" alt="Description" width="300" height="200">
+![Description](doc_urban.png)
 
 - Alexander Eckehart Urban, Ph.D. (Stanford University)
 
-<img src="./doc_choongwon.png" alt="Description" width="300" height="200">
+![Description](doc3.png)
 
 - Choongwon Jeong, Ph.D. (Seoul National University)
 
-<img src="./doc_eunkyeong.png" alt="Description" width="300" height="200">
+
+![Description](doc2.png)
 
 - Eun-Kyeong Jo, Ph.D. (Chungnam National University)
