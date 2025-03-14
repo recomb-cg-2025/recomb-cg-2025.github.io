@@ -4,7 +4,7 @@ permalink: /keynotes/
 layout: single
 ---
 
-![My Image](doc_urban.png)
+![My Image2](doc_urban.png)
 
 - Alexander Eckehart Urban, Ph.D. (Stanford University)
 
