@@ -1,5 +1,5 @@
 ---
-title: "Keynotes"
+title: "Keynote speakers"
 permalink: /keynotes/
 layout: single
 ---
