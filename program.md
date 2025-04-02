@@ -193,6 +193,7 @@ layout: single
           <td> </td>
           <td> </td>
           <td> </td>
+      </tr>
       <tr>
           <td> </td>
           <td>08:30</td>
