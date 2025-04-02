@@ -345,8 +345,7 @@ layout: single
         <td></td>
         <td></td>
     </tr>
-
-  </table>
+</table>
 
 
 
