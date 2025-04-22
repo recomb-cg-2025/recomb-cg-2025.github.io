@@ -15,7 +15,7 @@ The human genome sequence contains complexities in many different manifestations
 Several types of complex genome sequence variation, and the approaches used to analyze them, will be discussed. Even standard short-read whole-genome sequencing data can be computationally processed using graph-based analysis and machine learning filters to reveal structural sequence variation in the unique sequence portion of the genome, including complex structural variants (cxSVs). Meanwhile, segmental duplication (SegDup) portions of the human genome are mostly impenetrable to short-read sequencing but can be resolved, in psychiatric patient cohorts, using in vitro CRISPR-targeting combined with long-read sequencing and de novo assembly. Further, an additional layer of genome sequence complexity can exist by having sequence variation present not in the germline but in somatic tissues. Ultra-deep sequencing again coupled with machine learning filters, can be employed to detect and analyze such somatic variation, for example somatic insertions of LINE-1 retrotransposons in human brain cells.
 
 
-
+---
 
 ![Description](doc3.png)
 
@@ -25,7 +25,7 @@ Several types of complex genome sequence variation, and the approaches used to a
 
 When populations meet and mix after a long separation, recombination produces stitched chromosomes from segments of different ancestral origins over generations. The ancestral origin of a chromosomal segment, i.e. local ancestry, can greatly help reconstruct the genetic history of a population although it is not directly observable. Also, the number, length, and the genomic distribution of ancestral segments provide fine-resolution information on the history and adaptation of the admixed population. In this talk, we present two case studies in which the admixture of divergent lineages is a key evolutionary process. First, we present 166 ancient cattle genomes from northern China, dated to 10,000-200 years before present (yBP). We show that the local wild aurochs contributed to ~12% of the ancestry of the earliest taurine cattle in East Asia and the aurochs legacy is still present in modern cattle such as Hanwoo. A severe depletion of introgressed segments on the X chromosome suggests a male-driven introgression as well as a role of natural selection. Second, we present a genomic history of a recently invading swarming fly, Plecia longiforceps, based on 150 genomes across its range. We confirm a northern Chinese origin of the Korean population, a long and complex history of its northward expansion involving admixture, and clear signatures of local adaptation to northern environments. Together, these studies highlight a critical role of admixture in shaping a species’ evolutionary history.
 
-
+---
 
 
 ![Description](doc2.png)
