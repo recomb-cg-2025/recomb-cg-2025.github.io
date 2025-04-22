@@ -19,7 +19,7 @@ Several types of complex genome sequence variation, and the approaches used to a
 
 ![Description](doc3.png)
 
-- **Choongwon Jeong**, Ph.D. (1 School of Biological Sciences, Seoul National University, Seoul, 08826, Republic of Korea, 2 Institute for Data Innovation in Science, Seoul National University, Seoul, 08826, Republic of Korea)
+- **Choongwon Jeong**, Ph.D. (School of Biological Sciences, Seoul National University, Seoul, 08826, Republic of Korea & Institute for Data Innovation in Science, Seoul National University, Seoul, 08826, Republic of Korea)
 - Friday, 25 April 2025, 09:30-10:30 (60 min)
 - Abstract title : Recombination between chromosomes from divergent lineages harbors key information to reconstruct evolutionary history
 
