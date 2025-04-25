@@ -111,7 +111,7 @@ layout: single
           <td>14:45</td>
           <td>Proceeding talk 6</td>
           <td>Tanjeem Azwad Zaman, Bangladesh University of Engineering and Technology</td>
-          <td>Onn the robustness to gene tree rooting (or lack thereof) of triplet-based species tree estimation methods</td>
+          <td>On the robustness to gene tree rooting (or lack thereof) of triplet-based species tree estimation methods</td>
           <td>Tanjeem Azwad Zaman, Rabib Jahin lbn Momin and Md. Sharmsuzzoha Bayzid</td>
           <td>Olivier Tremblay-Savard, University of Manitoba</td>
       </tr>
