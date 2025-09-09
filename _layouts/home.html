@@ -4,10 +4,36 @@ layout: archive
 
 {{ content }}
 
+<head>
+  <style>
+    .blue-box {
+      background-color: #e6f2ff;  /* 연한 파란색 */
+      border: 1px solid #99ccff;  /* 테두리 */
+      padding: 12px;
+      border-radius: 6px;
+      margin-top: 15px;
+    }
+    .blue-box a {
+      color: #0056b3;       /* 링크 색상 (짙은 파란색) */
+      text-decoration: none; /* 밑줄 제거 */
+      font-weight: bold;    /* 강조 */
+    }
+    .blue-box a:hover {
+      text-decoration: underline; /* 마우스 올리면 밑줄 */
+    }
+  </style>
+</head>
+
 <body>
 
   <h1>Welcome to the 22nd RECOMB-CG</h1>
-  
+
+  <div class="blue-box">
+    <strong>Congratulations!</strong> The 2025 volume of RECOMB-CG has been published.  
+    You can see it and the archive from previous years 
+    <a href="https://link.springer.com/conference/rcg" target="_blank">here</a>.
+  </div>
+
   <p>The 22nd RECOMB-CG conference is co-located with RECOMB 2025 in Seoul, South Korea.</p>
 
   <p>The RECOMB satellite conference on Comparative Genomics, founded in 2003, brings together leading researchers in the mathematical, computational, and life sciences to discuss cutting-edge research in comparative genomics, with an emphasis on computational approaches and novel experimental results. The program includes invited speakers, contributed talks, and poster sessions.</p>
